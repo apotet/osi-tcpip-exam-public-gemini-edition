@@ -1,0 +1,6 @@
+{
+  "name": "GitHub Connector & Explorer",
+  "description": "Интеграция с GitHub: пошаговое руководство по связке с Google AI Studio, работа с репозиториями через API и инструменты синхронизации кода.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
